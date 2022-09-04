@@ -15,7 +15,7 @@ export default function Item() {
           <div className={styles.item__tipo}>Massa</div>
           <div className={styles.item__porcao}>400g</div>
           <div className={styles.item__qtdpessoas}>Serve 2 pessoas</div>
-          <div className={styles.item__valor}>R$ 50</div>
+          <div className={styles.item__valor}>R$ 55</div>
         </div>
       </div>
     </div>
